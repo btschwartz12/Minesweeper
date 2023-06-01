@@ -13,6 +13,3 @@ This is a fully functional version of Minesweeper implemented in Java, with cust
 Please note that since this is a fully developed project, it has been a while since it has been run, and there may be compatibility issues with newer versions of Java or other software. 
 
 To run the game, you can compile the `Minesweeper.java` file using your preferred Java compiler, and then launch the compiled program. The game supports customizable board sizes, and includes accurate graphics and sound effects.
-
-If you have any questions or feedback, feel free to contact me at ben.schwartz@example.com.
-
